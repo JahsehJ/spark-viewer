@@ -3,6 +3,7 @@
 > and a PR has been made for this feature to be in the default spark-viewer.
 > 
 > To access the enhanced version, switch to the `graph-enhance` branch.
+
 ![](https://i.imgur.com/ykHn9vx.png)
 
 # spark-viewer
